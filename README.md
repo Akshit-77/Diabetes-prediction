@@ -55,7 +55,7 @@ To run this project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/Akshit-77/Diabetes-prediction-Deployed)
+    git clone (https://github.com/Akshit-77/Diabetes-prediction)
     cd Diabetes-prediction-Deployed
     ```
 
